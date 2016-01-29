@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B564BD65-3FA2-01E4-D42E-FA437BBDEFDF}") = "google maps", "Assembly-CSharp.csproj", "{4EAAFD51-3D31-0534-4486-43DF3B0E634A}"
+EndProject
+Project("{B564BD65-3FA2-01E4-D42E-FA437BBDEFDF}") = "google maps", "Assembly-CSharp-Editor.csproj", "{BA355B8F-A555-A984-6253-F94348F3E9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EAAFD51-3D31-0534-4486-43DF3B0E634A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAAFD51-3D31-0534-4486-43DF3B0E634A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAAFD51-3D31-0534-4486-43DF3B0E634A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAAFD51-3D31-0534-4486-43DF3B0E634A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA355B8F-A555-A984-6253-F94348F3E9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA355B8F-A555-A984-6253-F94348F3E9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA355B8F-A555-A984-6253-F94348F3E9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA355B8F-A555-A984-6253-F94348F3E9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
